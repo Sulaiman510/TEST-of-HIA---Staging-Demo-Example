@@ -16,14 +16,14 @@ env:
   NG_USE_Q_AND_A_SEARCH: 'true'
   #
   # For demo-purpose only: A highly visible label to show instance name/version
-  ENV_NAME: ''
+  ENV_NAME: 'TEST of HIA - Staging  Demo/Example'
   #
   # ###########################################################################
   # TEXT CONTENT:
   # ###########################################################################
   #
   # A (short) name, visible in the top (navigation-)bar and in the browser's tab/window-title (and search-engine results)
-  TXT_APP_NAME: 'XXX'
+  TXT_APP_NAME: 'TEST of HIA - Staging  Demo/Example'
   # An absolute/data-URL to an image, visible in the top (navigation-)bar
   TXT_APP_LOGO_URL: 'https://rodekruis.github.io/510-ICON-LIBRARY/Beeldmerk_van_het_Nederlandse_Rode_Kruis.svg'
   # The first heading, (only) visible on the main-page
@@ -67,7 +67,7 @@ env:
     Information
   # The ID of the Google Sheet(s) that contains the content for the region
   REGIONS_SHEET_IDS: >-
-    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    1PR3rvyCQ3_5TGrOsbxh1i9e2v4afLEoJkDICtSin-ug
 
 # #############################################################################
 #
